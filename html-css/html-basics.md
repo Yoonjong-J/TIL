@@ -64,3 +64,7 @@ We name an HTML file 'index.html' that will be used as the main page of a site b
       ```
       - rel: relations
       - href: hyper-references
+
+### < body >
+
+- Represents main content of a web page
