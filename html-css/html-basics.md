@@ -68,3 +68,23 @@ We name an HTML file 'index.html' that will be used as the main page of a site b
 ### < body >
 
 - Represents main content of a web page
+
+### Self-closing tag (a.k.a. void element)
+
+Tag that does not need a closing tag
+
+Non-self-closing tags:
+
+```HTML
+<p></p>
+<h1></h1>
+<div></div>
+```
+
+Self-closing tags:
+
+```HTML
+<br />
+<img src="" alt="">
+<input type="text" />
+```
