@@ -27,3 +27,40 @@ We name an HTML file 'index.html' that will be used as the main page of a site b
 
 - This tag means the HTML file is the HTML Living Standard one
 - Lets the browser to accurately interpret and render the document according to the latest standards
+
+### < html lang="eng" >
+
+- html tag is the root of the document
+- 'lang' attribute means 'language'
+
+  | Language code | Language | Country Code                                                              |
+  | ------------- | -------- | ------------------------------------------------------------------------- |
+  | en            | English  | US(USA), GB(England), PH(Philippines)                                     |
+  | ko            | Korean   | KR(South Korea)                                                           |
+  | zh            | Chinese  | CN(China), HK(Hong Kong), TW(Taiwan), Hans(Simplified), Hant(Traditional) |
+  | ja            | Japanese |                                                                           |
+  | de            | German   |                                                                           |
+
+### < head >
+
+- Tag that stores metadata
+  - data for search engines
+
+### Metadata
+
+- Information about the data
+- Search engines read and interpret metadata
+- charset (attribute)
+  - Attribute insiede meta tag that specifies the character encoding for the HTML document
+  - Character encoding determines how the characters in the document are represented as bytes, which is essential for displaying text correctly in a web browser
+    - **UTF-8** is the most commonly used character encoding
+- title (tag)
+  - Title of a web page
+  - Text we see on browser tab, search engine results, bookmarks, social media
+- link (tag)
+  - Represents relationship with outer resource such as CSS file
+    - ```HTML
+      <link rel="stylesheet" href="style.css">
+      ```
+      - rel: relations
+      - href: hyper-references
