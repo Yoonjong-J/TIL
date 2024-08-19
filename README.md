@@ -8,4 +8,5 @@ People grow through consistent learning. I, who dream of becoming a better softw
 
 - HTML / CSS
   - [HTML Basics](./html-css/html-basics.md)
-  - [Contents Tag](./html-css/contents-tag.md)
+  - [Contents Tags](./html-css/contents-tags.md)
+  - [List Tags](./html-css/list-tags.md)
