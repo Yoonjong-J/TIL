@@ -15,3 +15,4 @@ People grow through consistent learning. I, who dream of becoming a better softw
   - [Sections Tags](./html-css/sections-tags.md)
   - [Forms & Table Tags](./html-css/forms-table-tags.md)
   - [Three Types of CSS Styles](./html-css/three-types-css.md)
+  - [Selectors](./html-css/selectors.md)
