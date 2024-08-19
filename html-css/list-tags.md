@@ -17,12 +17,7 @@ Code:
 
 Result:
 
-```
-1. Hello World 1
-2. Hello World 2
-3. Hello World 3
-4. Hello World 4
-```
+<img src="/TIL/Screenshots/ol-result.JPG" alt="ordered list">
 
 ## ul tag
 
@@ -41,9 +36,4 @@ Code:
 
 Result:
 
-```
-* Hello World 1
-* Hello World 2
-* Hello World 3
-* Hello World 4
-```
+<img src="/TIL/Screenshots/ul-result.JPG" alt="unordered list">
