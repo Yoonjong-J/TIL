@@ -17,7 +17,7 @@ Code:
 
 Result:
 
-![Alt text](/TIL/Screenshots/ordered-list.png)
+![Ordered List](/TIL/Screenshots/ordered-list.png)
 
 ## ul tag
 
@@ -36,4 +36,4 @@ Code:
 
 Result:
 
-![Alt text](/TIL/Screenshots/unordered-list.png)
+![Unordered List](/TIL/Screenshots/unordered-list.png)
