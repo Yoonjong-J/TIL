@@ -56,7 +56,7 @@ We name an HTML file 'index.html' that will be used as the main page of a site b
     - **UTF-8** is the most commonly used character encoding
 - title (tag)
   - Title of a web page
-  - Text we see on browser tab, search engine results, bookmarks, social media
+  - Text we see on browser tab, search engine results, bookmarks, and social media
 - link (tag)
   - Represents relationship with outer resource such as CSS file
     - ```HTML
@@ -69,7 +69,7 @@ We name an HTML file 'index.html' that will be used as the main page of a site b
 
 - Represents main content of a web page
 
-### Self-closing tag (a.k.a. void element)
+## Self-closing tag (a.k.a. void element)
 
 Tag that does not need a closing tag
 
