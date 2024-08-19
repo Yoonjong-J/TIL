@@ -17,7 +17,7 @@ Code:
 
 Result:
 
-<img src="/TIL/Screenshots/ol-result.JPG" alt="ordered list">
+![Alt text](/TIL/Screenshots/ol-result.jpg.JPG)
 
 ## ul tag
 
@@ -36,4 +36,4 @@ Code:
 
 Result:
 
-<img src="/TIL/Screenshots/ul-result.JPG" alt="unordered list">
+![Alt text](/TIL/Screenshots/ul-result.jpg.JPG)
