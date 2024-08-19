@@ -13,3 +13,4 @@ People grow through consistent learning. I, who dream of becoming a better softw
   - [Media Tags](./html-css/media-tags.md)
   - [Div & Span Tags](./html-css/div-span-tags.md)
   - [Sections Tags](./html-css/sections-tags.md)
+  - [Forms & Table Tags](./html-css/forms-table-tags.md)
