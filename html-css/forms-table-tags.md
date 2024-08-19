@@ -83,3 +83,11 @@
 ```
 
 ![Table Tag](/TIL/Screenshots/table.png)
+
+- tr: table row
+  - Defines a row of the table
+- th: table header
+  - Defines a table header cell
+- td: table data
+  - Defines a table data cell
+  - Actual content is placed within this tag
